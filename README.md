@@ -1,7 +1,6 @@
 # React + Docker + Vite
 
 1. Clonar el repositorio
-
 2. Instalar dependencias
 ```
 yarn install
@@ -23,9 +22,8 @@ yarn dev
 ```
 
 6. Acceder a sitio web
-```
-http://localhost:8087
-```
+
+    http://localhost:8087
 
 ## Stack usado
 * Docker
